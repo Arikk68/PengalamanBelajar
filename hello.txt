@@ -2,8 +2,6 @@ Hello world!! saja
 
 + mencoba menambah pembaruan deskripsi
 
-+ mencoba pull request melalui fork
-
-+ tes ke-2
-
-+ tes ke-3
++ squash 1
++ squash 2
++ squash 3
