@@ -9,5 +9,3 @@ Hello world!! saja
 + tes ke-3
 
 + tes ke-4
-
-+ last test
